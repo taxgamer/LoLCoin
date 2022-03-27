@@ -15,7 +15,7 @@
 
 namespace init {
 namespace {
-const char* EXE_NAME = "LoLcoin-gui";
+const char* EXE_NAME = "Voidcoin-gui";
 
 class BitcoinGuiInit : public interfaces::Init
 {
